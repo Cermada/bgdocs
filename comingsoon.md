@@ -1,0 +1,1 @@
+currently, i only have the pdf version of the document, check it out [here](https://octazenpack.school.blog/wp-content/uploads/2025/04/gui-text-color-discontinued-doc.pdf)
