@@ -2,6 +2,7 @@
 ![bedrock title screen](/images/bgd_icon.png)
 
 ### Introduction 🔎 <!-- {docsify-ignore} -->
+> **First time here?** Check out the [How to use](/HowToUse.md) page first — it explains everything you need to get started.
 
 The problem with Bedrock GUI customization is the gap between what shown in the texture pack template vs what actually appears in the game. in fact, bedrock gui have amount of 1000+ textures and you only need to customize less than that amount of number.
 
@@ -23,3 +24,4 @@ the projext is currently in beta testing, i procrastinate alot ;_;
 
 ## Want to Help? <!-- {docsify-ignore} -->
 i understand your offer. but currently, i would like to work alone.
+you can check the official repository [here](https://github.com/Cermada/bgdocs)
