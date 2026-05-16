@@ -1,4 +1,4 @@
-# How to Use Bedrock GUI Docs
+# How to Use Bedrock GUI Docs <!-- {docsify-ignore-all} -->
 
 > Read this page before diving into the content of this document, it'll save you a lot of confusion later.
 
@@ -24,7 +24,7 @@ This is important because Ore UI Customizer website previews is very limited tha
 
 ## 2. How to Navigate This Doc
 
-### Sidebar sections <!-- {docsify-ignore} -->
+### Sidebar sections
 
 The sidebar is split into a few sections and used to quicken your action:
 
@@ -106,7 +106,7 @@ the intent of this doc is solely focuses on checking every purposes of each func
 ---
 ## 3. Ore UI Customizer
 
-### What is Ore UI? <!-- {docsify-ignore} -->
+### What is Ore UI?
 
 Minecraft Bedrock's interface has been partially rebuilt using a system called **Ore UI** — a React-facet-based layer that runs on top of the old JSON UI. Ore UI handles many of the bedrock screens in the current version (like the new world menu, settings, etc.).
 
