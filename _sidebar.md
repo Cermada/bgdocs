@@ -1,4 +1,4 @@
-* [Home](/ "Bedrock GUI Docs")
+* [Home](/ "Home - Bedrock GUI Docs")
 * [How to use](/HowToUse.md "How to Use Bedrock GUI Docs")
 * <span style="color:rgb(115, 136, 145);">Quick Browse</span>
 * [UI](/comingsoon1.md "UI Folder texture name list - Bedrock GUI Docs")
