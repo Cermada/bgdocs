@@ -1,6 +1,9 @@
 # Ore UI Color Documentation <!-- {docsify-ignore-all} -->
 
 ---
+> Join 8crafter's discord server to improve Ore UI Customizer:
+[https://discord.gg/jrCTeHGuhx](https://discord.gg/jrCTeHGuhx)
+
 ### Introduction
 
 In Apr 16, 2025, a Youtube channel `@8Crafter` released a video called [Ore UI Customizer](https://www.youtube.com/watch?v=i4JSs1_a_tQ), showcasing his [website](https://www.8crafter.com/utilities/ore-ui-customizer) that proving Ore UI is still customizable even if it's hardcoded.
@@ -20,3 +23,4 @@ Anyway, the list goes on:
 | [Panels, Backgrounds, Labels](/ore_ui_colors/backgrounds.md "All Background color list - Ore UI Customizer") |
 
 > **New to use Ore UI Customizer?** [follow the step-by-step tutorial](/ore_ui_colors/howtouse-ore-ui-customizer.md "How to use Ore UI Customizer")
+
